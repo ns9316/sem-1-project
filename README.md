@@ -1,2 +1,2 @@
-# sem-1-project
+# Learning
 Trying to learn
